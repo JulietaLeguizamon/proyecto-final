@@ -83,7 +83,7 @@ ul {
     height: 350px;
 }
 /* Animaciones y transiciones */
-.card-img-top:hover {
+.img-carousel:hover {
     transform:scale(1.2);
     transition: 3s;
 }
