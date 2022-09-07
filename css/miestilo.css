@@ -18,10 +18,7 @@
 h1 {
     text-align: center;
     margin: 40px 40px;
-    animation-name: titulo;
-    animation-duration: 10s;
-    animation-iteration-count: infinite;
-    animation-delay: 3s;
+
 }
 
 h2 {
@@ -92,27 +89,3 @@ p:hover {
     font-weight: bolder;
 }
 
-/* Keyframes */
-
-
-@keyframes titulo {
-    0% {
-        color: black;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-
-
-
-    }
-
-    50% {
-        color: whitesmoke;
-        font-family: 'Times New Roman', Times, serif;
-
-
-    }
-    100%{
-        color: black;
-        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-    }
-
-}

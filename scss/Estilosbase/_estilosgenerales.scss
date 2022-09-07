@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+
+    div {
+        .logo {
+            width: 5%;
+            height: 5%;
+        }
+    }
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly
+}
+
+footer {
+    ul {
+        display: flex;
+        list-style: none;
+        text-decoration: none;
+
+    }
+
+    .lista {
+        margin: 0 20px;
+
+    }
+}
+
+.lista {
+    a {
+        .fa-whatsapp {
+            color: $colorWpp;
+        }
+
+        a {
+            .fa-instagram {
+                color: $colorinsta;
+            }
+        }
+    }
+}
+
+p {
+    &:hover {
+        font-weight: bolder;
+    }
+}

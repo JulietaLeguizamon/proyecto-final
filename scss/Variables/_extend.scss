@@ -1,0 +1,10 @@
+%estiloTituloPrincipal{
+    
+    text-align: center;
+    margin: 40px 40px;
+}
+
+@mixin TituloDos ($marginTituloDos) {
+    text-align: center;
+    margin: $marginTituloDos;
+}

@@ -1,0 +1,25 @@
+
+
+main {
+    section {
+        h1 {
+            @extend %estiloTituloPrincipal;
+
+        }
+
+        h2 {
+            @include TituloDos (40px 40px);
+        }
+    }
+
+    div {
+        h2 {
+            text-align: center;
+            margin: 40px 40px;
+        }
+
+        p {
+            text-align: center;
+        }
+    }
+}

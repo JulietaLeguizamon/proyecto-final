@@ -1,0 +1,30 @@
+main {
+
+    h1 {
+        @extend %estiloTituloPrincipal;
+
+    }
+
+    div {
+
+        .card {
+            width: 27rem
+        }
+
+        div {
+            .color-boton {
+                background-color: $colorBoton;
+            }
+        }
+
+    }
+    div{
+        .card-body{
+            background-color: $colorCardBody;
+        }
+    }
+
+    
+
+   
+}
