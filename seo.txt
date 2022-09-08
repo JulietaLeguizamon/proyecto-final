@@ -1,0 +1,13 @@
+1- Coloque las siguientes Keywords en los HTML:
+Index: "zapatillas, jordan, urbano, sport"
+Productos: "zapatillas, productos, jump23, sport"
+Preguentasfrecuentes: "zapatillas, faQ, preguentas, frecuentes"
+Ubicacion: "zapatillas, jordan, ubicacion, donde, encontrarnos"
+Nosotros: "zapatillas, jordan, sobre, nosotros"
+
+2- Coloque las siguientes descripciones:
+Index: "JUMP23 es una tienda de sneakers 100% originales de Argentina."
+Productos: " Sneakers JUMP23."
+Preguntasfrecuentes: "Pregunetas frecuentes de los clientes."
+Ubicacion: "Donde podes encontrar Jump23."
+Nosotros: "Somos una tienda de sneakers de Argentina."
