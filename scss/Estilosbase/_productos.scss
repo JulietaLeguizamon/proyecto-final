@@ -14,6 +14,12 @@ main {
         div {
             .color-boton {
                 background-color: $colorBoton;
+                margin-left: 35%;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                padding: 17px;
+                border-style:groove;
+
+
             }
         }
 
@@ -24,7 +30,17 @@ main {
         }
     }
 
+
+     .row{
+        display: flex;
+        justify-content: space-around;
+           
+            h5{
+             text-align: center;
+            }
     
+     }
+
 
    
 }
