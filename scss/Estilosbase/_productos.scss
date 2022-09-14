@@ -13,12 +13,19 @@ main {
 
         div {
             .color-boton {
-                background-color: $colorBoton;
-                margin-left: 35%;
-                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            
-                border-style:groove;
-                border-radius: 10%;
+                
+                border: 3px solid rgba(100,100,100,0.1);
+                margin-bottom: 20px;
+                padding: 20px;
+                width: 300px;
+                font-family: sans-serif;
+                font-size: 16px;
+                border-radius: 8px;
+                cursor: pointer;
+                color: #FFF;
+                background-size: 300%;
+                background-image: linear-gradient(to left, #FF5733, #B81B57, #FF5733 );
+
 
 
             }
