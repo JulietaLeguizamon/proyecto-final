@@ -36,6 +36,8 @@ header {
         background-image: linear-gradient(to left, #FF5733, #B81B57, #FF5733);
     }
 
+    
+
 
 }
 
@@ -45,7 +47,15 @@ main {
 
 footer {
     display: flex;
-    justify-content: space-evenly
+    justify-content: space-evenly;
+    background-image: linear-gradient(to left, black, grey, black);
+    color: #FFF;
+    padding-top: 20px;
+    
+
+
+
+
 }
 
 footer {

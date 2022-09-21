@@ -11,7 +11,7 @@ main{
     div{
         
         .color-formulario{
-            background-color: $colorFormularios;
+            background-color:antiquewhite;
             height: 50%;
             width: 50%;
             padding: 15px;
@@ -23,10 +23,12 @@ main{
         }
 
         input{
-            background-color: black;
+            background-size: 300%;
+            background-image: linear-gradient(to left, #FF5733, #B81B57, #FF5733 );
             color: white;
             padding: 10px;
             font-family: Georgia, 'Times New Roman', Times, serif;
+            border-radius: 5%;
 
             
 

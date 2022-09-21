@@ -1,6 +1,7 @@
 main section h1, main h1 {
   text-align: center;
-  margin: 40px 40px; }
+  margin: 40px 40px;
+  padding-top: 40px; }
 
 * {
   margin: 0;
@@ -30,7 +31,10 @@ main {
 
 footer {
   display: flex;
-  justify-content: space-evenly; }
+  justify-content: space-evenly;
+  background-image: linear-gradient(to left, black, grey, black);
+  color: #FFF;
+  padding-top: 20px; }
 
 footer ul {
   display: flex;
@@ -110,18 +114,21 @@ main h2 {
   margin: 40px 40px; }
 
 main div .color-formulario {
-  background-color: #a52a2a;
+  background-color: antiquewhite;
   height: 50%;
   width: 50%;
   padding: 15px;
   border-radius: 7%; }
 
 main div input {
-  background-color: black;
+  background-size: 300%;
+  background-image: linear-gradient(to left, #FF5733, #B81B57, #FF5733);
   color: white;
   padding: 10px;
-  font-family: Georgia, 'Times New Roman', Times, serif; }
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-radius: 5%; }
 
 main div iframe {
   width: 500px;
-  height: 500px; }
+  height: 500px;
+  margin-left: 20px; }
