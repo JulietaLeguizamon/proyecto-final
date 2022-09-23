@@ -10,8 +10,8 @@ main section h1, main h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif; }
 
 header div .logo {
-  width: 5%;
-  height: 5%; }
+  width: 60px;
+  height: 60px; }
 
 header .btn {
   border: 3px solid rgba(100, 100, 100, 0.1);
@@ -129,6 +129,6 @@ main div input {
   border-radius: 5%; }
 
 main div iframe {
-  width: 500px;
+  width: 50%;
   height: 500px;
   margin-left: 20px; }
