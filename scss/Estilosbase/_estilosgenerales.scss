@@ -48,6 +48,7 @@ main {
 footer {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
     background-image: linear-gradient(to left, black, grey, black);
     color: #FFF;
     padding-top: 20px;
@@ -76,6 +77,7 @@ footer {
     a {
         .fa-whatsapp {
             color: $colorWpp;
+         
         }
 
         a {
